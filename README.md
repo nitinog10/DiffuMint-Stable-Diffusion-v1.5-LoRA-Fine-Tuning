@@ -320,11 +320,6 @@ print(f"VRAM Used: {torch.cuda.memory_reserved() / 1024**3:.2f} GB")
 
 ---
 
-## 📝 License
-
-This project is released under the [MIT License](LICENSE).
-
-The base model weights (`runwayml/stable-diffusion-v1-5`) are governed by the [CreativeML Open RAIL-M License](https://huggingface.co/spaces/CompVis/stable-diffusion-license).
 
 ---
 
