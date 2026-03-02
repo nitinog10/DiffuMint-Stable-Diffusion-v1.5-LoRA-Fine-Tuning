@@ -1,5 +1,4 @@
-# 🎨 DiffuMint — Stable Diffusion v1.5 LoRA Fine-Tuning qq
-
+# 🎨 DiffuMint — Stable Diffusion v1.5 LoRA Fine-Tuning 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-Stable%20Diffusion%20v1.5-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technique-LoRA%20(PEFT)-orange?style=for-the-badge" />
