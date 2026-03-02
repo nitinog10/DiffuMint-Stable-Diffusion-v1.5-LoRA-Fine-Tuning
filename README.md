@@ -32,7 +32,7 @@
 
 **DiffuMint** demonstrates a production-ready, resource-conscious approach to fine-tuning Stable Diffusion v1.5 using LoRA adapters. By targeting only the attention layers of the UNet, **less than 1% of model parameters are actually trained**, making this viable on hardware with as little as 12 GB of VRAM.
 
-Key highlights:
+Highlights:
 - ✅ Runs on **Google Colab Free Tier** (T4 GPU, 12–16 GB VRAM)
 - ✅ Uses **LoRA** — trains only ~0.5–1% of total parameters
 - ✅ **fp16 mixed precision** + **8-bit AdamW** optimizer
